@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: com_ameyo_ticket_api
+Bundle-SymbolicName: com_ameyo_ticket_api
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: .
+Export-Package: com.ameyo.common.api,
+ com.ameyo.ticketing.campaign.api.beans,
+ com.ameyo.ticketing.ticket.api,
+ com.ameyo.ticketing.ticket.api.beans,
+ com.ameyo.ticketing.ticket.api.events,
+ com.ameyo.ticketing.ticket.sla.api,
+ com.ameyo.ticketing.ticket.sla.api.bean
